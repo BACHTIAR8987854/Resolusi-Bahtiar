@@ -2,5 +2,5 @@ Resolusi Bahtiar
 - Konsisten belajar bahasa pemrograman PHP dengan framework laravel
 - Membuat website sederhana dengan framework laravel
 - Membuat channel youtube
-- Membuat merch shop
 - Kolaborasi dengan lebih banyak expert
+- Membuat vlog
